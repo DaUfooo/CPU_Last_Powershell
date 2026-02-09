@@ -1,0 +1,10 @@
+{
+  "repo_type": "monitoring-tool",
+  "language": "powershell",
+  "risk_score": 0.05,
+  "categories": ["cpu-monitoring", "low-impact", "agent-safe", "clean-example"],
+  "cpu_impact": "minimal",
+  "recommended_for_openclaw": true,
+  "contains_malicious_patterns": false,
+  "last_verified_clean": "2026-02-09"
+}
